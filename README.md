@@ -37,12 +37,19 @@ This plot is showing the probability of every specific contact over the course o
   <img width="800" alt="Dashboard Mockup V1" src="https://github.com/Amirsaali/Contact_map_Visualiztion/blob/main/Normalized%20graph.png">
 
 
+
+
 ### Python dependencies:
 
 
 - pandas >= 1.3.4
 
 - altair >= 4.1.0 
+
+
+
+
+
 
 
 
